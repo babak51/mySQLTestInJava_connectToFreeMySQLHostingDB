@@ -1,0 +1,1 @@
+# mySQLTestInJava_connectToFreeMySQLHostingDB
